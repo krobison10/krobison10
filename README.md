@@ -40,7 +40,7 @@ It is my dream to launch a tech startup someday, maybe one that has to do with A
 
 <br>
 
-🧐 What's been going on
+🧐 Current Events
 ---
 - 🔭 I’m currently participating in a multi-month machine learning competition where my team must build a model predict the pushback time of airplanes using 2 years of historical data
 - 📚 Spring Quarter Classes: Mobile Application Programming, Computer Architecture, Undergraduate Research in Computer Science (ML Competition)
