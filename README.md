@@ -2,13 +2,7 @@
 
 <!-- Intro -->
 
-I am a Computer Science student at the University of Washington Tacoma and I will be graduating with a Bachelor of Science this coming Fall 2023.
-
-I am extremely interested in full-stack web development. I recently deployed a job application and interview tracking app called [App.ly](https://github.com/krobison10/applyapp), it is still a work in progress, but it already possesses some nice features.
-
-Lately I have also been dedicating much of my time to machine learning. I'm especially interested in the area of deep learning and computer vision. I would love to expand into language models eventually as well. 
-
-It is my dream to launch a tech startup someday, maybe one that has to do with AI?🤔
+I am a Computer Science student at the University of Washington and I will be graduating with a Bachelor of Science in December 2023.
 
 <br>
 
