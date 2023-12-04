@@ -43,9 +43,7 @@ I am a Computer Science student at the University of Washington and I will be gr
 
 🧐 Current Events
 ---
-- 🔭 I’m currently participating in a multi-month machine learning competition where my team must build a model predict the pushback time of airplanes using 2 years of historical data
-- Update: we got 4th place in phase 1 and will be moving on to phase 2 over the summer where we will work with NASA to develop a federated version of our model. In this process our team was also awarded the University of Washington Tacoma's Annual School of Engineering and Technology Outstanding Undergraduate Research Award!
-- 📚 Spring Quarter Classes: Mobile Application Programming, Computer Architecture, Undergraduate Research in Computer Science (ML Competition)
+- The old ones were outdated and I'm too busy to add new ones
 
 <br>
 
