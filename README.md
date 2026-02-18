@@ -6,26 +6,13 @@ I am a Software Engineer @ GoLinks and UW CS Alum
 
 <br>
 
-<!-- stats -->
-## &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krobison10&theme=onedark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krobison10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 🧰 Toolbox
 ---
-
-<!-- Langs -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="75" height="75"/>
+<!-- Languages -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="75" height="75"/>
 
 <!-- Technologies -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express Logo" width="75" height="75"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Node.js Logo" width="75" height="75"/>
-
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="75" height="75"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis Logo" width="75" height="75"/>
 
 <br> 
 
@@ -40,13 +27,13 @@ I am a Software Engineer @ GoLinks and UW CS Alum
 
 🧐 Current Events
 ---
-- The old ones were outdated and I'm too busy to add new ones
+- Building distributed vector search and RAG
 
 <br>
 
 ☎️ Get in Touch
 ---
 - 💬 Message me on discord: Kylerrobison#8285
-- 📫 Email: kylerrobison10@outlook.com
+- 📫 Email: kylerrobison8@gmail.com
 
 <br>
